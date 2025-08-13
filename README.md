@@ -1,1 +1,1 @@
-# bsq
+# bsq (bigger square)
